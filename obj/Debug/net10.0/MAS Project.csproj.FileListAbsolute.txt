@@ -1,0 +1,14 @@
+D:\coding\MAS Project\bin\Debug\net10.0\MAS Project.exe
+D:\coding\MAS Project\bin\Debug\net10.0\MAS Project.deps.json
+D:\coding\MAS Project\bin\Debug\net10.0\MAS Project.runtimeconfig.json
+D:\coding\MAS Project\bin\Debug\net10.0\MAS Project.dll
+D:\coding\MAS Project\bin\Debug\net10.0\MAS Project.pdb
+D:\coding\MAS Project\obj\Debug\net10.0\MAS Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\MAS Project\obj\Debug\net10.0\MAS Project.AssemblyInfoInputs.cache
+D:\coding\MAS Project\obj\Debug\net10.0\MAS Project.AssemblyInfo.cs
+D:\coding\MAS Project\obj\Debug\net10.0\MAS Project.csproj.CoreCompileInputs.cache
+D:\coding\MAS Project\obj\Debug\net10.0\MAS Project.dll
+D:\coding\MAS Project\obj\Debug\net10.0\refint\MAS Project.dll
+D:\coding\MAS Project\obj\Debug\net10.0\MAS Project.pdb
+D:\coding\MAS Project\obj\Debug\net10.0\MAS Project.genruntimeconfig.cache
+D:\coding\MAS Project\obj\Debug\net10.0\ref\MAS Project.dll
